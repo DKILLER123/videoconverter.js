@@ -2,6 +2,7 @@
     "name": "videoconverter",
     "description": "videoconverter.js - port of ffmpeg with emscripten",
     "version": "0.1.0",
+    "main": "index.js",
     "keywords": ["video", "videoconverter", "ffmpeg", "emscripten"],
     "homepage": "http://bgrins.github.io/videoconverter.js/",
     "repository": {
